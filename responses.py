@@ -3,7 +3,7 @@ import os
 from openai import OpenAI
 
 # Initialize the OpenAI client
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='your-secret-key')
 
 # Directory setup
 prompt_dir = "prompts"

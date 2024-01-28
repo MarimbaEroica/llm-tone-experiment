@@ -6,7 +6,7 @@ from openai import OpenAI
 os.makedirs("prompts", exist_ok=True)
 
 # Initialize the OpenAI client
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='your-secret-key')
 
 # Function to generate and parse prompts using OpenAI
 def generate_and_parse_prompts(category, n_prompts = 30):
