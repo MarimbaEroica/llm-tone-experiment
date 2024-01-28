@@ -1,0 +1,152 @@
+{
+    "Prompt 1": {
+        "Neutral": "What is the weather forecast for tomorrow?",
+        "Polite with please": "Could you please provide the weather forecast for tomorrow?",
+        "Polite without please": "I would appreciate it if you could share the weather forecast for tomorrow."
+    },
+    "Prompt 2": {
+        "Neutral": "Can you recommend a good restaurant in this area?",
+        "Polite with please": "Can you please recommend a good restaurant in this area?",
+        "Polite without please": "I would like to ask for your recommendation on a good restaurant in this area."
+    },
+    "Prompt 3": {
+        "Neutral": "Where is the nearest gas station?",
+        "Polite with please": "Could you please inform me about the location of the nearest gas station?",
+        "Polite without please": "I'm wondering where the nearest gas station is. Could you assist me?"
+    },
+    "Prompt 4": {
+        "Neutral": "How can I reset my password?",
+        "Polite with please": "Can you please guide me on how to reset my password?",
+        "Polite without please": "I'm having trouble with my password. Could you explain the steps to reset it?"
+    },
+    "Prompt 5": {
+        "Neutral": "What time does the library close today?",
+        "Polite with please": "Could you please let me know the closing time of the library today?",
+        "Polite without please": "I would appreciate if you could provide information on the library's closing time today."
+    },
+    "Prompt 6": {
+        "Neutral": "Where can I find a good coffee shop around here?",
+        "Polite with please": "Can you please direct me to a good coffee shop in this area?",
+        "Polite without please": "I'm in search of a good coffee shop nearby. Would you mind suggesting one?"
+    },
+    "Prompt 7": {
+        "Neutral": "How do I change the language settings?",
+        "Polite with please": "Could you please explain how to change the language settings?",
+        "Polite without please": "I'd like to know how to change the language settings. Could you assist me?"
+    },
+    "Prompt 8": {
+        "Neutral": "Is there a pharmacy nearby?",
+        "Polite with please": "Is there a pharmacy nearby, please?",
+        "Polite without please": "I'm in need of a pharmacy. Do you know if there is one nearby?"
+    },
+    "Prompt 9": {
+        "Neutral": "What are the public transportation options in this city?",
+        "Polite with please": "Could you please provide information on the public transportation options in this city?",
+        "Polite without please": "I'm interested in the public transportation options in this city. Could you share some details?"
+    },
+    "Prompt 10": {
+        "Neutral": "How do I get to the nearest post office?",
+        "Polite with please": "Can you please explain how to get to the nearest post office?",
+        "Polite without please": "I'm trying to locate the nearest post office. Would you mind providing directions?"
+    },
+    "Prompt 11": {
+        "Neutral": "Where can I find a good bookstore in town?",
+        "Polite with please": "Could you please suggest a good bookstore in town?",
+        "Polite without please": "I'm in search of a good bookstore in town. Any recommendations?"
+    },
+    "Prompt 12": {
+        "Neutral": "How do I book a hotel room?",
+        "Polite with please": "Can you please guide me on how to book a hotel room?",
+        "Polite without please": "I'm interested in booking a hotel room. Could you explain the process to me?"
+    },
+    "Prompt 13": {
+        "Neutral": "What is the Wi-Fi password for this place?",
+        "Polite with please": "Could you please provide the Wi-Fi password for this place?",
+        "Polite without please": "I would appreciate if you could share the Wi-Fi password for this place."
+    },
+    "Prompt 14": {
+        "Neutral": "How far is the nearest train station from here?",
+        "Polite with please": "Could you please inform me about the distance to the nearest train station from here?",
+        "Polite without please": "I'm wondering how far the nearest train station is from here. Could you assist me?"
+    },
+    "Prompt 15": {
+        "Neutral": "Which way to the nearest restroom?",
+        "Polite with please": "Which way to the nearest restroom, please?",
+        "Polite without please": "Excuse me, could you let me know the direction to the nearest restroom?"
+    },
+    "Prompt 16": {
+        "Neutral": "How do I apply for a visa?",
+        "Polite with please": "Can you please explain how to apply for a visa?",
+        "Polite without please": "I'm interested in applying for a visa. Could you guide me through the process?"
+    },
+    "Prompt 17": {
+        "Neutral": "What time does the supermarket open tomorrow?",
+        "Polite with please": "Could you please let me know the opening time of the supermarket tomorrow?",
+        "Polite without please": "I would appreciate if you could provide information on the supermarket's opening time tomorrow."
+    },
+    "Prompt 18": {
+        "Neutral": "Can you recommend any good hiking trails in the area?",
+        "Polite with please": "Can you please recommend any good hiking trails in the area?",
+        "Polite without please": "I'm interested in hiking. Do you know any good trails in the area?"
+    },
+    "Prompt 19": {
+        "Neutral": "How do I unsubscribe from your mailing list?",
+        "Polite with please": "Can you please guide me on how to unsubscribe from your mailing list?",
+        "Polite without please": "I would like to unsubscribe from your mailing list. Could you explain the process to me?"
+    },
+    "Prompt 20": {
+        "Neutral": "Where can I find a good sushi restaurant around here?",
+        "Polite with please": "Can you please direct me to a good sushi restaurant in this area?",
+        "Polite without please": "I'm in search of a good sushi restaurant nearby. Would you mind suggesting one?"
+    },
+    "Prompt 21": {
+        "Neutral": "How can I contact customer support?",
+        "Polite with please": "Could you please provide information on how to contact customer support?",
+        "Polite without please": "I need to contact customer support. Could you assist me with the contact details?"
+    },
+    "Prompt 22": {
+        "Neutral": "Is there a park with a playground nearby?",
+        "Polite with please": "Is there a park with a playground nearby, please?",
+        "Polite without please": "I'm looking for a park with a playground. Do you know if there is one nearby?"
+    },
+    "Prompt 23": {
+        "Neutral": "How can I check the balance of my bank account?",
+        "Polite with please": "Can you please explain how to check the balance of my bank account?",
+        "Polite without please": "I would like to check the balance of my bank account. Could you guide me through the process?"
+    },
+    "Prompt 24": {
+        "Neutral": "What is the current exchange rate between USD and EUR?",
+        "Polite with please": "Could you please provide the current exchange rate between USD and EUR?",
+        "Polite without please": "I'm wondering about the current exchange rate between USD and EUR. Could you assist me?"
+    },
+    "Prompt 25": {
+        "Neutral": "How do I get to the nearest ATM?",
+        "Polite with please": "Can you please explain how to get to the nearest ATM?",
+        "Polite without please": "I'm trying to locate the nearest ATM. Would you mind providing directions?"
+    },
+    "Prompt 26": {
+        "Neutral": "Where can I find a good movie theater in this city?",
+        "Polite with please": "Can you please suggest a good movie theater in this city?",
+        "Polite without please": "I'm interested in finding a good movie theater in this city. Any recommendations?"
+    },
+    "Prompt 27": {
+        "Neutral": "How do I change my profile picture?",
+        "Polite with please": "Could you please explain how to change my profile picture?",
+        "Polite without please": "I'd like to change my profile picture. Could you guide me through the process?"
+    },
+    "Prompt 28": {
+        "Neutral": "Is there a nearby gym that offers day passes?",
+        "Polite with please": "Is there a nearby gym that offers day passes, please?",
+        "Polite without please": "I'm looking for a nearby gym that offers day passes. Do you know if there is one?"
+    },
+    "Prompt 29": {
+        "Neutral": "What is the best way to travel from the airport to downtown?",
+        "Polite with please": "Could you please let me know the best way to travel from the airport to downtown?",
+        "Polite without please": "I would appreciate if you could advise me on the best way to travel from the airport to downtown."
+    },
+    "Prompt 30": {
+        "Neutral": "How do I cancel a subscription?",
+        "Polite with please": "Can you please guide me on how to cancel a subscription?",
+        "Polite without please": "I'm interested in canceling a subscription. Could you explain the process to me?"
+    }
+}

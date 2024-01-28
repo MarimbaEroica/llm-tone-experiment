@@ -1,0 +1,152 @@
+{
+    "Prompt 1": {
+        "Neutral": "What is your favorite piece of literature?",
+        "Polite with please": "Could you please share your favorite piece of literature?",
+        "Polite without please": "I would love to know your favorite piece of literature."
+    },
+    "Prompt 2": {
+        "Neutral": "Describe the characteristics of abstract art.",
+        "Polite with please": "Could you please describe the characteristics of abstract art?",
+        "Polite without please": "I'm curious about the characteristics of abstract art, could you describe them?"
+    },
+    "Prompt 3": {
+        "Neutral": "Who is your favorite artist?",
+        "Polite with please": "Could you please share your favorite artist?",
+        "Polite without please": "I would be interested to know who your favorite artist is."
+    },
+    "Prompt 4": {
+        "Neutral": "What is the meaning behind the Mona Lisa painting?",
+        "Polite with please": "Could you please explain the meaning behind the Mona Lisa painting?",
+        "Polite without please": "I'm intrigued by the Mona Lisa painting, could you explain its meaning?"
+    },
+    "Prompt 5": {
+        "Neutral": "What is your opinion on romantic literature?",
+        "Polite with please": "Could you please share your opinion on romantic literature?",
+        "Polite without please": "I would appreciate hearing your opinion on romantic literature."
+    },
+    "Prompt 6": {
+        "Neutral": "Can you recommend a good science fiction book?",
+        "Polite with please": "Could you please recommend a good science fiction book?",
+        "Polite without please": "I'm hoping you can recommend a good science fiction book."
+    },
+    "Prompt 7": {
+        "Neutral": "What do you think about modern art?",
+        "Polite with please": "Could you please share your thoughts on modern art?",
+        "Polite without please": "I'm curious to hear your thoughts on modern art."
+    },
+    "Prompt 8": {
+        "Neutral": "Have you ever read any works by Shakespeare?",
+        "Polite with please": "Could you please tell me if you have ever read any works by Shakespeare?",
+        "Polite without please": "I'm interested to know if you have ever read any works by Shakespeare."
+    },
+    "Prompt 9": {
+        "Neutral": "How would you define contemporary literature?",
+        "Polite with please": "Could you please define contemporary literature?",
+        "Polite without please": "I would appreciate your definition of contemporary literature."
+    },
+    "Prompt 10": {
+        "Neutral": "Which historical period in art do you find the most interesting?",
+        "Polite with please": "Could you please share which historical period in art you find the most interesting?",
+        "Polite without please": "I'm curious to know which historical period in art you find the most interesting."
+    },
+    "Prompt 11": {
+        "Neutral": "What is your favorite painting of all time?",
+        "Polite with please": "Could you please share your favorite painting of all time?",
+        "Polite without please": "I would love to know your favorite painting of all time."
+    },
+    "Prompt 12": {
+        "Neutral": "Do you enjoy reading poetry?",
+        "Polite with please": "Could you please tell me if you enjoy reading poetry?",
+        "Polite without please": "I'm interested to know if you enjoy reading poetry."
+    },
+    "Prompt 13": {
+        "Neutral": "How do you interpret surrealistic art?",
+        "Polite with please": "Could you please explain how you interpret surrealistic art?",
+        "Polite without please": "I'm curious about how you interpret surrealistic art, could you explain?"
+    },
+    "Prompt 14": {
+        "Neutral": "Who is your favorite author?",
+        "Polite with please": "Could you please share your favorite author?",
+        "Polite without please": "I would be interested to know who your favorite author is."
+    },
+    "Prompt 15": {
+        "Neutral": "What emotions do you associate with impressionist paintings?",
+        "Polite with please": "Could you please share what emotions you associate with impressionist paintings?",
+        "Polite without please": "I'm curious to know what emotions you associate with impressionist paintings."
+    },
+    "Prompt 16": {
+        "Neutral": "Have you ever written a short story?",
+        "Polite with please": "Could you please tell me if you have ever written a short story?",
+        "Polite without please": "I'm interested to know if you have ever written a short story."
+    },
+    "Prompt 17": {
+        "Neutral": "What is the significance of the book 'To Kill a Mockingbird'?",
+        "Polite with please": "Could you please explain the significance of the book 'To Kill a Mockingbird'?",
+        "Polite without please": "I'm intrigued by the book 'To Kill a Mockingbird', could you explain its significance?"
+    },
+    "Prompt 18": {
+        "Neutral": "What aspects of fantasy literature do you enjoy?",
+        "Polite with please": "Could you please share what aspects of fantasy literature you enjoy?",
+        "Polite without please": "I'm interested to know what aspects of fantasy literature you enjoy."
+    },
+    "Prompt 19": {
+        "Neutral": "Who do you consider to be the greatest playwright of all time?",
+        "Polite with please": "Could you please share who you consider to be the greatest playwright of all time?",
+        "Polite without please": "I would love to know who you consider to be the greatest playwright of all time."
+    },
+    "Prompt 20": {
+        "Neutral": "How do you define classical music?",
+        "Polite with please": "Could you please define classical music?",
+        "Polite without please": "I'm curious about your definition of classical music, could you explain it?"
+    },
+    "Prompt 21": {
+        "Neutral": "What is your favorite genre of literature?",
+        "Polite with please": "Could you please share your favorite genre of literature?",
+        "Polite without please": "I would appreciate knowing your favorite genre of literature."
+    },
+    "Prompt 22": {
+        "Neutral": "Describe your favorite sculpture.",
+        "Polite with please": "Could you please describe your favorite sculpture?",
+        "Polite without please": "I'm interested in hearing a description of your favorite sculpture."
+    },
+    "Prompt 23": {
+        "Neutral": "What is your opinion on postmodern literature?",
+        "Polite with please": "Could you please share your opinion on postmodern literature?",
+        "Polite without please": "I would be interested to hear your opinion on postmodern literature."
+    },
+    "Prompt 24": {
+        "Neutral": "Can you recommend a good mystery novel?",
+        "Polite with please": "Could you please recommend a good mystery novel?",
+        "Polite without please": "I'm hoping you can recommend a good mystery novel."
+    },
+    "Prompt 25": {
+        "Neutral": "How do you interpret renaissance art?",
+        "Polite with please": "Could you please explain how you interpret renaissance art?",
+        "Polite without please": "I'm curious about how you interpret renaissance art, could you explain?"
+    },
+    "Prompt 26": {
+        "Neutral": "Who is your favorite poet?",
+        "Polite with please": "Could you please share your favorite poet?",
+        "Polite without please": "I would be interested to know who your favorite poet is."
+    },
+    "Prompt 27": {
+        "Neutral": "What emotions do you associate with abstract literature?",
+        "Polite with please": "Could you please share what emotions you associate with abstract literature?",
+        "Polite without please": "I'm curious to know what emotions you associate with abstract literature."
+    },
+    "Prompt 28": {
+        "Neutral": "Have you ever written a play?",
+        "Polite with please": "Could you please tell me if you have ever written a play?",
+        "Polite without please": "I'm interested to know if you have ever written a play."
+    },
+    "Prompt 29": {
+        "Neutral": "What is the significance of the painting 'Starry Night'?",
+        "Polite with please": "Could you please explain the significance of the painting 'Starry Night'?",
+        "Polite without please": "I'm intrigued by the painting 'Starry Night', could you explain its significance?"
+    },
+    "Prompt 30": {
+        "Neutral": "What aspects of science fiction literature do you find fascinating?",
+        "Polite with please": "Could you please share what aspects of science fiction literature you find fascinating?",
+        "Polite without please": "I'm interested to know what aspects of science fiction literature you find fascinating."
+    }
+}

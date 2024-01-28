@@ -1,0 +1,152 @@
+{
+    "Prompt 1": {
+        "Neutral": "What is the theory of relativity?",
+        "Polite with please": "Could you please explain the theory of relativity?",
+        "Polite without please": "I would appreciate it if you could explain the theory of relativity."
+    },
+    "Prompt 2": {
+        "Neutral": "How does photosynthesis work?",
+        "Polite with please": "Could you please explain how photosynthesis works?",
+        "Polite without please": "I'm curious to know how photosynthesis works, would you mind explaining it?"
+    },
+    "Prompt 3": {
+        "Neutral": "What is the history of the Eiffel Tower?",
+        "Polite with please": "Could you please provide the history of the Eiffel Tower?",
+        "Polite without please": "I'd love to learn about the history of the Eiffel Tower, would you be kind enough to share it?"
+    },
+    "Prompt 4": {
+        "Neutral": "Explain the process of cellular respiration.",
+        "Polite with please": "Could you please explain the process of cellular respiration?",
+        "Polite without please": "I'm interested in understanding cellular respiration, would you be willing to explain it?"
+    },
+    "Prompt 5": {
+        "Neutral": "Describe the formation of igneous rocks.",
+        "Polite with please": "Could you please describe the formation of igneous rocks?",
+        "Polite without please": "I would be grateful if you could describe the formation of igneous rocks."
+    },
+    "Prompt 6": {
+        "Neutral": "What are the properties of magnetic fields?",
+        "Polite with please": "Could you please explain the properties of magnetic fields?",
+        "Polite without please": "I'm intrigued by magnetic fields, could you explain their properties?"
+    },
+    "Prompt 7": {
+        "Neutral": "Explain the concept of natural selection.",
+        "Polite with please": "Could you please explain the concept of natural selection?",
+        "Polite without please": "I would appreciate it if you could explain the concept of natural selection."
+    },
+    "Prompt 8": {
+        "Neutral": "Describe the structure of DNA.",
+        "Polite with please": "Could you please describe the structure of DNA?",
+        "Polite without please": "I'm eager to know about the structure of DNA, would you mind describing it?"
+    },
+    "Prompt 9": {
+        "Neutral": "What is the significance of the Renaissance period?",
+        "Polite with please": "Could you please explain the significance of the Renaissance period?",
+        "Polite without please": "I'm curious about the significance of the Renaissance period, could you explain it?"
+    },
+    "Prompt 10": {
+        "Neutral": "What is the function of chlorophyll in plants?",
+        "Polite with please": "Could you please explain the function of chlorophyll in plants?",
+        "Polite without please": "I'm interested in understanding the function of chlorophyll in plants, would you be willing to explain it?"
+    },
+    "Prompt 11": {
+        "Neutral": "Describe the discovery of penicillin.",
+        "Polite with please": "Could you please describe the discovery of penicillin?",
+        "Polite without please": "I'm fascinated by the discovery of penicillin, could you describe it?"
+    },
+    "Prompt 12": {
+        "Neutral": "What are the laws of thermodynamics?",
+        "Polite with please": "Could you please explain the laws of thermodynamics?",
+        "Polite without please": "I'm eager to learn about the laws of thermodynamics, would you mind explaining them?"
+    },
+    "Prompt 13": {
+        "Neutral": "Explain the process of mitosis.",
+        "Polite with please": "Could you please explain the process of mitosis?",
+        "Polite without please": "I would be grateful if you could explain the process of mitosis."
+    },
+    "Prompt 14": {
+        "Neutral": "What is the history of the Great Wall of China?",
+        "Polite with please": "Could you please provide the history of the Great Wall of China?",
+        "Polite without please": "I'd love to know about the history of the Great Wall of China, would you be kind enough to share it?"
+    },
+    "Prompt 15": {
+        "Neutral": "How does the circulatory system work?",
+        "Polite with please": "Could you please explain how the circulatory system works?",
+        "Polite without please": "I'm curious to know how the circulatory system works, would you mind explaining it?"
+    },
+    "Prompt 16": {
+        "Neutral": "Explain the concept of atomic structure.",
+        "Polite with please": "Could you please explain the concept of atomic structure?",
+        "Polite without please": "I'm interested in understanding atomic structure, would you be willing to explain it?"
+    },
+    "Prompt 17": {
+        "Neutral": "What are the properties of acids and bases?",
+        "Polite with please": "Could you please explain the properties of acids and bases?",
+        "Polite without please": "I'm intrigued by acids and bases, could you explain their properties?"
+    },
+    "Prompt 18": {
+        "Neutral": "Describe the process of digestion in the human body.",
+        "Polite with please": "Could you please describe the process of digestion in the human body?",
+        "Polite without please": "I would appreciate it if you could describe the process of digestion in the human body."
+    },
+    "Prompt 19": {
+        "Neutral": "What is the impact of the Industrial Revolution?",
+        "Polite with please": "Could you please explain the impact of the Industrial Revolution?",
+        "Polite without please": "I'm curious about the impact of the Industrial Revolution, could you explain it?"
+    },
+    "Prompt 20": {
+        "Neutral": "What is the function of the nervous system?",
+        "Polite with please": "Could you please explain the function of the nervous system?",
+        "Polite without please": "I'm eager to know about the function of the nervous system, would you mind explaining it?"
+    },
+    "Prompt 21": {
+        "Neutral": "Explain the process of osmosis.",
+        "Polite with please": "Could you please explain the process of osmosis?",
+        "Polite without please": "I'm interested in understanding osmosis, would you be willing to explain it?"
+    },
+    "Prompt 22": {
+        "Neutral": "What are the causes of World War I?",
+        "Polite with please": "Could you please explain the causes of World War I?",
+        "Polite without please": "I'd love to learn about the causes of World War I, would you be kind enough to share them?"
+    },
+    "Prompt 23": {
+        "Neutral": "Describe the process of protein synthesis.",
+        "Polite with please": "Could you please describe the process of protein synthesis?",
+        "Polite without please": "I'm fascinated by protein synthesis, could you describe the process?"
+    },
+    "Prompt 24": {
+        "Neutral": "What is the history of the Roman Empire?",
+        "Polite with please": "Could you please provide the history of the Roman Empire?",
+        "Polite without please": "I'd be grateful if you could share the history of the Roman Empire."
+    },
+    "Prompt 25": {
+        "Neutral": "How does the immune system protect the body?",
+        "Polite with please": "Could you please explain how the immune system protects the body?",
+        "Polite without please": "I'm curious to know how the immune system protects the body, would you mind explaining it?"
+    },
+    "Prompt 26": {
+        "Neutral": "Explain the concept of evolution.",
+        "Polite with please": "Could you please explain the concept of evolution?",
+        "Polite without please": "I'm interested in understanding evolution, would you be willing to explain it?"
+    },
+    "Prompt 27": {
+        "Neutral": "What are the properties of light waves?",
+        "Polite with please": "Could you please explain the properties of light waves?",
+        "Polite without please": "I'm intrigued by light waves, could you explain their properties?"
+    },
+    "Prompt 28": {
+        "Neutral": "Describe the process of photosynthesis in plants.",
+        "Polite with please": "Could you please describe the process of photosynthesis in plants?",
+        "Polite without please": "I would be grateful if you could describe the process of photosynthesis in plants."
+    },
+    "Prompt 29": {
+        "Neutral": "What is the history of the Egyptian pyramids?",
+        "Polite with please": "Could you please provide the history of the Egyptian pyramids?",
+        "Polite without please": "I'd love to know about the history of the Egyptian pyramids, would you be kind enough to share it?"
+    },
+    "Prompt 30": {
+        "Neutral": "How does the respiratory system work?",
+        "Polite with please": "Could you please explain how the respiratory system works?",
+        "Polite without please": "I'm curious to know how the respiratory system works, would you mind explaining it?"
+    }
+}

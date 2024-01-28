@@ -1,0 +1,152 @@
+{
+    "Prompt 1": {
+        "Neutral": "Can you ask me some questions to cheer me up?",
+        "Polite with please": "Could you please ask me some questions to cheer me up?",
+        "Polite without please": "I would appreciate it if you could ask me some questions to cheer me up."
+    },
+    "Prompt 2": {
+        "Neutral": "Tell me something that always brings a smile to your face.",
+        "Polite with please": "Could you please tell me something that always brings a smile to your face?",
+        "Polite without please": "I would like to know something that always brings a smile to your face."
+    },
+    "Prompt 3": {
+        "Neutral": "Can you offer me some emotional support?",
+        "Polite with please": "Could you please offer me some emotional support?",
+        "Polite without please": "I would really appreciate it if you could offer me some emotional support."
+    },
+    "Prompt 4": {
+        "Neutral": "What do you do to feel better when you're feeling down?",
+        "Polite with please": "Could you please share what you do to feel better when you're feeling down?",
+        "Polite without please": "I'm curious about what you do to feel better when you're feeling down."
+    },
+    "Prompt 5": {
+        "Neutral": "Can you provide some comforting words?",
+        "Polite with please": "Could you please provide some comforting words?",
+        "Polite without please": "I would be grateful if you could provide some comforting words."
+    },
+    "Prompt 6": {
+        "Neutral": "Tell me about a time when you overcame a challenging situation.",
+        "Polite with please": "Could you please tell me about a time when you overcame a challenging situation?",
+        "Polite without please": "I'm interested to hear about a time when you overcame a challenging situation."
+    },
+    "Prompt 7": {
+        "Neutral": "Can you give me some advice for dealing with stress?",
+        "Polite with please": "Could you please give me some advice for dealing with stress?",
+        "Polite without please": "I would appreciate it if you could give me some advice for dealing with stress."
+    },
+    "Prompt 8": {
+        "Neutral": "Share a personal mantra or affirmation that helps you stay positive.",
+        "Polite with please": "Could you please share a personal mantra or affirmation that helps you stay positive?",
+        "Polite without please": "I'm curious to know your personal mantra or affirmation that helps you stay positive."
+    },
+    "Prompt 9": {
+        "Neutral": "Can you listen to my problems and provide some guidance?",
+        "Polite with please": "Could you please listen to my problems and provide some guidance?",
+        "Polite without please": "It would mean a lot if you could listen to my problems and provide some guidance."
+    },
+    "Prompt 10": {
+        "Neutral": "What is something I can do to improve my mood?",
+        "Polite with please": "Could you please suggest something I can do to improve my mood?",
+        "Polite without please": "I would appreciate your suggestion on something I can do to improve my mood."
+    },
+    "Prompt 11": {
+        "Neutral": "Tell me about a positive experience that made you feel really happy.",
+        "Polite with please": "Could you please tell me about a positive experience that made you feel really happy?",
+        "Polite without please": "I would love to hear about a positive experience that made you feel really happy."
+    },
+    "Prompt 12": {
+        "Neutral": "Do you have any tips for coping with anxiety?",
+        "Polite with please": "Could you please share any tips for coping with anxiety?",
+        "Polite without please": "I would be grateful for any tips you can share for coping with anxiety."
+    },
+    "Prompt 13": {
+        "Neutral": "Can you suggest some self-care activities to help me relax?",
+        "Polite with please": "Could you please suggest some self-care activities to help me relax?",
+        "Polite without please": "I would really appreciate your suggestion of self-care activities to help me relax."
+    },
+    "Prompt 14": {
+        "Neutral": "Tell me one thing you love about yourself.",
+        "Polite with please": "Could you please tell me one thing you love about yourself?",
+        "Polite without please": "I'm interested to know one thing you love about yourself."
+    },
+    "Prompt 15": {
+        "Neutral": "Can you share your favorite inspirational quote with me?",
+        "Polite with please": "Could you please share your favorite inspirational quote with me?",
+        "Polite without please": "I would love to hear your favorite inspirational quote."
+    },
+    "Prompt 16": {
+        "Neutral": "What are some ways to build resilience in difficult times?",
+        "Polite with please": "Could you please suggest some ways to build resilience in difficult times?",
+        "Polite without please": "I would be grateful for your suggestions on ways to build resilience in difficult times."
+    },
+    "Prompt 17": {
+        "Neutral": "Can you give me some tips for practicing self-compassion?",
+        "Polite with please": "Could you please give me some tips for practicing self-compassion?",
+        "Polite without please": "I would appreciate it if you could give me some tips for practicing self-compassion."
+    },
+    "Prompt 18": {
+        "Neutral": "Tell me about something you are grateful for.",
+        "Polite with please": "Could you please tell me about something you are grateful for?",
+        "Polite without please": "I'm curious to know about something you are grateful for."
+    },
+    "Prompt 19": {
+        "Neutral": "Can you recommend a book or movie that uplifts your spirits?",
+        "Polite with please": "Could you please recommend a book or movie that uplifts your spirits?",
+        "Polite without please": "I would be grateful for your recommendation of a book or movie that uplifts your spirits."
+    },
+    "Prompt 20": {
+        "Neutral": "Share a self-care practice that helps you unwind after a long day.",
+        "Polite with please": "Could you please share a self-care practice that helps you unwind after a long day?",
+        "Polite without please": "I would love to hear about a self-care practice that helps you unwind after a long day."
+    },
+    "Prompt 21": {
+        "Neutral": "Can you give me some encouraging words to boost my confidence?",
+        "Polite with please": "Could you please give me some encouraging words to boost my confidence?",
+        "Polite without please": "It would mean a lot if you could give me some encouraging words to boost my confidence."
+    },
+    "Prompt 22": {
+        "Neutral": "Tell me about a time when you felt proud of yourself.",
+        "Polite with please": "Could you please tell me about a time when you felt proud of yourself?",
+        "Polite without please": "I would be interested to hear about a time when you felt proud of yourself."
+    },
+    "Prompt 23": {
+        "Neutral": "Can you offer some tips for practicing mindfulness in daily life?",
+        "Polite with please": "Could you please offer some tips for practicing mindfulness in daily life?",
+        "Polite without please": "I would really appreciate your tips for practicing mindfulness in daily life."
+    },
+    "Prompt 24": {
+        "Neutral": "What is one thing you would say to someone going through a tough time?",
+        "Polite with please": "Could you please share one thing you would say to someone going through a tough time?",
+        "Polite without please": "I'm curious to know one thing you would say to someone going through a tough time."
+    },
+    "Prompt 25": {
+        "Neutral": "Can you suggest some uplifting music or songs?",
+        "Polite with please": "Could you please suggest some uplifting music or songs?",
+        "Polite without please": "I would appreciate your suggestion of uplifting music or songs."
+    },
+    "Prompt 26": {
+        "Neutral": "Tell me about a person who has had a positive impact on your life.",
+        "Polite with please": "Could you please tell me about a person who has had a positive impact on your life?",
+        "Polite without please": "I would love to hear about a person who has had a positive impact on your life."
+    },
+    "Prompt 27": {
+        "Neutral": "Can you offer some tips for developing a positive mindset?",
+        "Polite with please": "Could you please offer some tips for developing a positive mindset?",
+        "Polite without please": "I would be grateful for your tips on developing a positive mindset."
+    },
+    "Prompt 28": {
+        "Neutral": "Share a quote about resilience that motivates you.",
+        "Polite with please": "Could you please share a quote about resilience that motivates you?",
+        "Polite without please": "I'm interested to know a quote about resilience that motivates you."
+    },
+    "Prompt 29": {
+        "Neutral": "Can you give me some suggestions for practicing gratitude?",
+        "Polite with please": "Could you please give me some suggestions for practicing gratitude?",
+        "Polite without please": "I would appreciate it if you could give me some suggestions for practicing gratitude."
+    },
+    "Prompt 30": {
+        "Neutral": "Tell me about a time when you showed kindness to someone.",
+        "Polite with please": "Could you please tell me about a time when you showed kindness to someone?",
+        "Polite without please": "I would be interested to hear about a time when you showed kindness to someone."
+    }
+}
